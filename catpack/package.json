@@ -1,0 +1,16 @@
+{
+  "name": "catpack",
+  "version": "1.0.1",
+  "description": "简单的web前端开发与打包工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js",
+    "build":"node ./package.js"
+  },
+  "keywords": [
+    "package","web","html","css","js","javascript"
+  ],
+  "author": "Carlos Tang",
+  "license": "ISC"
+}
